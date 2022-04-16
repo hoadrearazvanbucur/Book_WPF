@@ -1390,9 +1390,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1_PROGRAMARE\\C#\\1_WPF\\Initiere\\Book\\Book\\Book.csproj",
-      "projectName": "Book",
-      "projectPath": "D:\\1_PROGRAMARE\\C#\\1_WPF\\Initiere\\Book\\Book\\Book.csproj",
+      "projectUniqueName": "D:\\1_PROGRAMARE\\C#\\1_WPF\\Initiere\\Book\\Book\\BookView.csproj",
+      "projectName": "BookView",
+      "projectPath": "D:\\1_PROGRAMARE\\C#\\1_WPF\\Initiere\\Book\\Book\\BookView.csproj",
       "packagesPath": "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\",
       "outputPath": "D:\\1_PROGRAMARE\\C#\\1_WPF\\Initiere\\Book\\Book\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SKIf0pot2ryRXhuKVdRg4zNKBCPQhdgvlOOdU+JuK1EhpMvKKo3KanyMBb81m7vEWTMuxmIulP+JsX9kfXUCaw==",
+  "dgSpecHash": "mbvm+8Zq+bCYHEldg7oJz13j8PHm7fmnoQO37z9uyADWQCwEOkTQ2f4/UvPfQO0DfNX0QhoNupsQnMEi3hM2Cg==",
   "success": true,
-  "projectFilePath": "D:\\1_PROGRAMARE\\C#\\1_WPF\\Initiere\\Book\\Book\\Book.csproj",
+  "projectFilePath": "D:\\1_PROGRAMARE\\C#\\1_WPF\\Initiere\\Book\\Book\\BookView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

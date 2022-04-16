@@ -23,7 +23,21 @@ namespace Book
         public MainWindow()
         {
             InitializeComponent();
+            //load();
         }
+
+        public void load()
+        {
+            Book aa = new Book();
+
+
+
+
+
+
+
+        }
+
 
 
     }
